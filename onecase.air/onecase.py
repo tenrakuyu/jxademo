@@ -7,3 +7,4 @@ auto_setup(__file__)
 
 while 1==1:
     swipe((800, 1800), vector=[0, -0.5], duration=0.3)
+    print('swipe')
